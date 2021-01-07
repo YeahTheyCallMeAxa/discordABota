@@ -1,0 +1,23 @@
+{
+  "name": "discordabota",
+  "version": "1.0.0",
+  "description": "Hi! This was my first discord bot, it was called Uno Reverse, I started my developing from that!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YeahTheyCallMeAxa/discordABota.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YeahTheyCallMeAxa/discordABota/issues"
+  },
+  "homepage": "https://github.com/YeahTheyCallMeAxa/discordABota#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
